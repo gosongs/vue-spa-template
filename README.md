@@ -1,2 +1,1 @@
-# vue-spa-template
-vue-spa-template
+自用模板.
